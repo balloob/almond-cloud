@@ -131,7 +131,7 @@
   },
   "optionalDependencies": {
     "@kubernetes/client-node": "^0.10.2",
-    "aws-sdk": "^2.2.48"
+    "aws-sdk": "2.536.0"
   },
   "nyc": {
     "exclude": [
