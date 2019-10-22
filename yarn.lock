@@ -2842,7 +2842,7 @@ gcp-metadata@^1.0.0:
     gaxios "^1.0.2"
     json-bigint "^0.3.0"
 
-genie-toolkit@~0.5.0-alpha.1:
+genie-toolkit@~0.5.0-alpha.2:
   version "0.5.0-alpha.2"
   resolved "https://registry.yarnpkg.com/genie-toolkit/-/genie-toolkit-0.5.0-alpha.2.tgz#65ef26466f488bb877f78ccf2bbac4a6e5f64ef2"
   integrity sha512-yOYr4eteQThTK0/Bmwk7SGUQu03rdZcAJHyiBdi/tRbm8p+sCsqZqvUOErSJ3hnB8bajpSgFsWwMDI9pe0ok1g==
